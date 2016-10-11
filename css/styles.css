@@ -1,0 +1,11 @@
+#data {
+  display: none;
+}
+
+#humidityHide {
+  display: none;
+}
+
+.col-md-4 {
+  padding-bottom: 50px;
+}
